@@ -273,7 +273,7 @@ nav {
 }
 
 .language {
-    width: calc(100% / 3);
+    width: 20%;
     display: flex;
     justify-content: center;
     position: relative;
